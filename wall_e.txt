@@ -19,3 +19,12 @@ EVE: "EVE"! "EVE"!
 WALL.E: Eeeee... va?
 
 [EVE giggles]
+
+
+
+Ship's Computer: Voice confirmation required.
+
+Captain: Uhhh...
+
+Ship's Computer: [after the "uhh" echoes] Accepted.
+
